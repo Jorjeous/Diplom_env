@@ -1,5 +1,5 @@
 # Diplom_env
-Set up environment
+#Set up environment
 
 sudo apt update
 sudo apt install python3-dev python3-pip python3-venv
